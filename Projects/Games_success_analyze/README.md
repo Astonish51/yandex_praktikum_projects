@@ -2,10 +2,10 @@
 
 **В данном проекте использовались следующие библиотеки:**
 
-*Pandas*
-*numpy*
-*Matplotlib*
-*Seaborn*
+*Pandas*,
+*numpy*,
+*Matplotlib*,
+*Seaborn*,
 *SciPy*
 
 **Задачи проекта:**
